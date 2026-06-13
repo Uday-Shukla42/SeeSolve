@@ -81,7 +81,7 @@ The frontend layout relies entirely on atomic vanilla components, completely eli
 Because the platform is engineered completely inside a unified single-file HTML wrapper, execution requires zero compilation overhead:
 
 1. Clone or download the source repository files to your local system environment.
-2. Open the file `video-support-platform.html` directly in any contemporary evergreen browser engine (Chrome, Safari, Firefox, Edge).
+2. Open the file `index.html` directly in any contemporary evergreen browser engine (Chrome, Safari, Firefox, Edge).
 3. **To evaluate the full platform workflow:**
     * Click **Agent Login** on the landing navigation bar.
     * Click the **Sign in** button on the Auth screen to bypass using the preloaded demo credentials (`agent@supportlens.app` / `demo1234`).
